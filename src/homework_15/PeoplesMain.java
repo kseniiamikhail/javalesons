@@ -18,5 +18,6 @@ public class PeoplesMain {
         System.out.println("Педагог");
 
 
+
     }
 }
